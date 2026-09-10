@@ -115,7 +115,7 @@ For production systems, password-hashing algorithms such as **Argon2**, **bcrypt
 Add a screenshot of the program output here:
 
 ```md
-![Login & Registration System Screenshot](screenshot.png)
+![Login & Registration System Screenshot](task2_screenshot.png)
 ```
 
 Example program flow:
